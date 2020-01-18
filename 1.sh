@@ -1,3 +1,3 @@
 #!/bin/bash
 url="www.ixuzl.com"
-echo $url
+echo "web:{$url}"
