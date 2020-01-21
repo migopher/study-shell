@@ -19,3 +19,9 @@ array_name[2]="array_4"
 echo ${array_name[@]}
 # 打印所有数组数据
 echo ${array_name[*]}
+
+
+#计算数组长度1
+echo ${#array_name[*]}
+#计算数组长度2
+echo ${#array_name[@]}
