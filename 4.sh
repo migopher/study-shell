@@ -9,5 +9,6 @@ echo $hell
 str="hell wrold "${name}"!"
 echo ${str}
 
+nnn=${#str}
 # 计算字符串长度
-echo ${#str}
+echo  nnn
