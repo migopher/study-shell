@@ -3,7 +3,7 @@ arr=("golang" "php" "java")
 
 echo ${arr[@]}
 
-echo ${arr[0:]}
+echo ${arr:1:}
 echo $arr
 
 
