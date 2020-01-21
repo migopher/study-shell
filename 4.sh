@@ -10,5 +10,4 @@ str="hell wrold "${name}"!"
 echo ${str}
 
 # 计算字符串长度
-num= ${#str}
-echo num
+echo ${#str}
