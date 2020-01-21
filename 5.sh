@@ -5,4 +5,4 @@ arr=(
     "java"
 )
 
-printf($arr)
+printf $arr
