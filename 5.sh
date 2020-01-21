@@ -14,3 +14,5 @@ array_name[2]="array_4"
 
 echo ${array_name[@]}
 echo ${array_name[*]}
+
+echo $array_name[*]
