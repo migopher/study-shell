@@ -11,4 +11,4 @@ echo ${str}
 
 num=${#str}
 # 计算字符串长度
-echo  $num
+echo  ${num}
