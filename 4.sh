@@ -5,3 +5,6 @@ echo $hell
 
 str="hell wrold "${name}"!"
 echo ${str}
+
+num= ${#str}
+echo num
