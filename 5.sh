@@ -12,8 +12,8 @@ echo $arr
 #数组赋值2
 array_name[0]="array_1"
 array_name[1]="array_2"
-array_name[1]="array_3"
-array_name[2]="array_4"
+array_name[2]="array_3"
+array_name[3]="array_4"
 
 # 打印所有数组数据
 echo ${array_name[@]}
