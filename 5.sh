@@ -1,8 +1,4 @@
 #!/bin/bash
-arr=(
-    "golang"
-    "php"
-    "java"
-)
+arr=("golang" "php" "java")
 
 printf $arr
