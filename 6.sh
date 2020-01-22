@@ -9,4 +9,4 @@ val2=`expr ${num} + 5`
 echo $val
 echo $val2
 
-echo `1 + 4`
+echo 2+54
