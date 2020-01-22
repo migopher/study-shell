@@ -1,6 +1,6 @@
 #!/bin/bash
 
-val=`expr 2+2`
+val=`expr 2 + 2`
 num=25
 
 val2=`expr ${num} + 5`
