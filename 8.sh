@@ -6,6 +6,6 @@
 # echo "参数1：$1";
 
 
-for i in $#; do
+for i in "$*"; do
   echo $i
 done 
