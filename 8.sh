@@ -6,8 +6,9 @@
 # echo "传递参数个数：$*";
 # echo "参数1：$1";
 
-hello ='hello'
+hello ="hello world"
 
+echo $hello
 echo "${hello}"
 
 for i in "$*"; do
