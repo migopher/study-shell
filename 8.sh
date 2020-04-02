@@ -9,5 +9,8 @@
 for i in "$*"; do
   echo $i
   echo "-----"
-  
 done 
+
+for j in "$@";do
+    echo $j
+done
