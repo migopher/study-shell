@@ -9,6 +9,8 @@ hello="hello world"
 echo $hello
 echo "${hello}"
 
+echo "$hello"
+
 for i in "$*"; do
   echo $i
   echo "---1---"
