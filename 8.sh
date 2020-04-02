@@ -9,13 +9,13 @@
 hello ="hello world"
 
 echo $hello
-echo "${hello}"
+# echo "${hello}"
 
-for i in "$*"; do
-  echo $i
-  echo "-----"
-done 
+# for i in "$*"; do
+#   echo $i
+#   echo "-----"
+# done 
 
-for j in "$@";do
-    echo $j
-done
+# for j in "$@";do
+#     echo $j
+# done
