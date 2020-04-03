@@ -5,6 +5,8 @@
 # echo "传递参数个数：$#";
 # echo "传递参数个数：$*";
 # echo "参数1：$1";
+
+echo $[1]
 hello="hello world"
 echo $hello
 echo "${hello}"
