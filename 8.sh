@@ -25,3 +25,4 @@ prot=$$
 
 echo "${prot}"
 echo "当前进程ID号:$prot"
+echo "最后命令退出状态:$?"
