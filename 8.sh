@@ -20,3 +20,5 @@ for j in $@;do
     echo $j
     echo "---2---"
 done
+
+echo "当前进程ID号:$$"
