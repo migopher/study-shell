@@ -21,4 +21,7 @@ for j in $@;do
     echo "---2---"
 done
 
-echo "当前进程ID号:$$"
+prot=$$
+
+echo "${prot}"
+echo "当前进程ID号:$prot"
