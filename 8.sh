@@ -11,12 +11,12 @@ echo "${hello}"
 
 echo "$hello"
 
-for i in "$*"; do
+for i in $*; do
   echo $i
   echo "---1---"
 done 
 echo "-----"
-for j in "$@";do
+for j in $@;do
     echo $j
     echo "---2---"
 done
