@@ -33,6 +33,7 @@ if [ $code == 0 ]
 then
   echo "退出状态相等"
 elif [ $code == 1]
+then
   echo "code:1"
 else
   echo "退出状态不相等"
