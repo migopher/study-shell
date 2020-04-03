@@ -28,9 +28,12 @@ prot=$$
 echo "${prot}"
 echo "当前进程ID号:$prot"
 echo "最后命令退出状态:$?"
-if [ $? == 0 ]
+code = 1
+if [ $code == 0 ]
 then
   echo "退出状态相等"
+elif [ $code == 1]
+  echo "code:1"
 else
   echo "退出状态不相等"
 fi
