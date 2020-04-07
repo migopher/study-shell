@@ -11,3 +11,5 @@ printf "%-5s %-10s %-4s\n" 3 java 95
 
 echo -e "1\t2\t3"
 echo -e "\e[1;31m  This is red text \e[0m"
+
+echo -e "\033[31m golang \033[0m"
