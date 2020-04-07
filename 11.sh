@@ -3,7 +3,7 @@
 
 
 
-printf "%-5s %-10s %-4s" No Name Mark
-printf "%-5s %-10s %-4s" 1 go 85
-printf "%-5s %-10s %-4s" 2 shell 60
-printf "%-5s %-10s %-4s" 3 java 95
+printf "%-5s %-10s %-4s\n" No Name Mark
+printf "%-5s %-10s %-4s\n" 1 go 85
+printf "%-5s %-10s %-4s\n" 2 shell 60
+printf "%-5s %-10s %-4s\n" 3 java 95
