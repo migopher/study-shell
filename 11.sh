@@ -10,3 +10,4 @@ printf "%-5s %-10s %-4s\n" 3 java 95
 
 
 echo -e "1\t2\t3"
+echo "\e[1;31m This"
