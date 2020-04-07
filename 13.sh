@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo -e "OK! "
+echo "OK! \c"
 echo "It is a test"
