@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo test
+echo 'test'
 print "golang \a"
