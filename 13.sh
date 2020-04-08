@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "OK! \n"
+echo "OK! \n2"
 echo "It is a test"
